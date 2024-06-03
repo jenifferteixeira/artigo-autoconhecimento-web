@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="https://github.com/jenifferteixeira/ebook-vscode/blob/main/assets-git/banner.png">
+    <img width="100" src="https://github.com/jenifferteixeira/artigo-autoconhecimento-web/blob/main/assets-git/banner.png">
 </p>
 
 
@@ -12,31 +12,31 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 
 
-<a href="https://github.com/jenifferteixeira/ebook-vscode/blob/main/output/ebook-atalhos-vscode.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/jenifferteixeira/artigo-autoconhecimento-web/blob/main/output/Como%20o%20autoconhecimento%20transforma%20desenvolvedores%20web%20em%20profissionais%20de%20sucesso.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Lexica](https://lexica.art/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Canva](https://www.canva.com/)
+- [RemoveBG](https://www.remove.bg/pt-br)
 
 ## 🧠 Prompts
 
 
 ChatGPT：
-
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de atalhos de vscode, o ebook é do nicho de programação e o subnicho é de vscode, o título deve ser épico e curto, e tenha uma temática de mario bros no título, me liste 5 variações de títulos                                                      |
-| conteúdo | Faça um texto para ebook, com foco em CSS, listando os principais atalhos do vscode com exemplos {REGRAS} Explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre a importância do autoconhecimento na programação web                                                      |
+| conteúdo | comporte-se como um escritor de artigos tech frontend e escreva o artigo atendendo as regras abaixo
+|REGRAS| No máximo 5 linhas por blocos de explicação, me explique de maneira informal, como se eu fosse uma criança de 10 anos, os blocos que serão criados estão abaixo, o que é autoconhecimento e qual sua importância? como ele pode impactar na carreira de tecnologia? quais são as habilidades que mais são reconhecidas no mercado tecnológico? como desenvolver essas habilidades? como o autoconhecimento pode impulsionar sua carreira? |
 
-
+<br>
 Lexica.art：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem do mario bros frustrado usando o computador --v 3.2 |
-| conclusão| crie uma imagem do mario bros orgulhoso no frente do computador --v 2.1 |
+| título |No léxica utilizei o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei foi: female developer from the front with her chest crossed with headphones |
 
 ## ✨ Features
 
@@ -59,7 +59,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/jenifferteixeira/ebook-vscode/blob/main/assets-git/1707272285584.jpg"
+      src="https://github.com/jenifferteixeira/artigo-autoconhecimento-web/blob/main/assets-git/1707272285584.jpg"
     />
     <p>&nbsp&nbsp&nbspJeniffer Teixeira<br>
     &nbsp&nbsp&nbsp
